@@ -8,3 +8,5 @@ Steps to be considered:
 - Change the path of folder in the code.
 - Enter name of the image in the code for which you need to convert the image to text.
 - Run the Code
+
+***Before Following these steps first Download Tesseract***
